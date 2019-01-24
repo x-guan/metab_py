@@ -1,0 +1,6 @@
+
+python3 isotope_3_argp.py -h
+
+python3 isotope_3_argp.py -f mca_1_l_d2o.mzML -s acutumine.sdf -o acutumine.csv -r 5 -t 5.5 -p 100 -n 5
+
+
